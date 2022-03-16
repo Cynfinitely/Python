@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
-
 import sys
 
 print("Welcome to the ATM!")
@@ -61,10 +58,5 @@ while True:
     else:
         sys.exit()
         
-
-
-# In[ ]:
-
-
 
 
